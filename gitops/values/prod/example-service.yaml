@@ -1,6 +1,6 @@
 image:
   repository: ghcr.io/xdlc-labs/example-service
-  tag: "sha-f38366d7faf6"
+  tag: "dogfood-local"
   pullPolicy: IfNotPresent
 
 replicaCount: 1
